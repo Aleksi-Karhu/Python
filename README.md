@@ -1,0 +1,2 @@
+# Python
+Ohjelmoinnin perusteiden harkkatyö
