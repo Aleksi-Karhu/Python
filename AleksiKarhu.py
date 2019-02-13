@@ -1,6 +1,6 @@
 # CT60A0201 Ohjelmoinnin perusteet 2017
 # Tekijä: Aleksi Karhu
-# Opiskelijanumero: 0452237
+# Opiskelijanumero: #######
 # Päivämäärä: 17.11.2017
 # Yhteistyö ja lähteet, nimi ja yhteistyön muoto:
 # HUOM! KAIKKI KURSSIN TEHTÄVÄT OVAT HENKILÖKOHTAISIA!
